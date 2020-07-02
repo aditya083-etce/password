@@ -1,3 +1,4 @@
+#Run on cmd
 import requests
 import hashlib #<--converts into hashed no
 import sys
